@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/juana/Desktop/Dojo/Testing-this-app-main"
+    "last_opened_file_path": "C:/Users/juana/Desktop/Testing-this-app-main"
   }
 }]]></component>
   <component name="RunManager">
@@ -116,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682455758196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1682455872730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682455872730</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1682455901716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682455901716</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
